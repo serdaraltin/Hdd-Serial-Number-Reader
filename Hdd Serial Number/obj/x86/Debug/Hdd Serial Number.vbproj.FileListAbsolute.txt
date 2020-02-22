@@ -1,0 +1,9 @@
+c:\users\main\documents\visual studio 2010\Projects\Hdd Serial Number\Hdd Serial Number\bin\Debug\Hdd Serial Number.exe
+c:\users\main\documents\visual studio 2010\Projects\Hdd Serial Number\Hdd Serial Number\bin\Debug\Hdd Serial Number.pdb
+c:\users\main\documents\visual studio 2010\Projects\Hdd Serial Number\Hdd Serial Number\bin\Debug\Hdd Serial Number.xml
+c:\users\main\documents\visual studio 2010\Projects\Hdd Serial Number\Hdd Serial Number\obj\x86\Debug\Hdd_Serial_Number.Form1.resources
+c:\users\main\documents\visual studio 2010\Projects\Hdd Serial Number\Hdd Serial Number\obj\x86\Debug\Hdd_Serial_Number.Resources.resources
+c:\users\main\documents\visual studio 2010\Projects\Hdd Serial Number\Hdd Serial Number\obj\x86\Debug\Hdd Serial Number.vbproj.GenerateResource.Cache
+c:\users\main\documents\visual studio 2010\Projects\Hdd Serial Number\Hdd Serial Number\obj\x86\Debug\Hdd Serial Number.exe
+c:\users\main\documents\visual studio 2010\Projects\Hdd Serial Number\Hdd Serial Number\obj\x86\Debug\Hdd Serial Number.xml
+c:\users\main\documents\visual studio 2010\Projects\Hdd Serial Number\Hdd Serial Number\obj\x86\Debug\Hdd Serial Number.pdb
